@@ -1,0 +1,350 @@
+[06-Jan-2023 13:08:08 UTC] PHP Fatal error:  Cannot redeclare bloginfo() (previously declared in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\general-template.php:742) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[06-Jan-2023 13:08:57 UTC] PHP Fatal error:  Cannot redeclare bloginfo() (previously declared in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\general-template.php:742) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[06-Jan-2023 13:08:59 UTC] PHP Fatal error:  Cannot redeclare bloginfo() (previously declared in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\general-template.php:742) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[06-Jan-2023 13:09:00 UTC] PHP Fatal error:  Cannot redeclare bloginfo() (previously declared in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\general-template.php:742) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[06-Jan-2023 13:09:00 UTC] PHP Fatal error:  Cannot redeclare bloginfo() (previously declared in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\general-template.php:742) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[06-Jan-2023 13:09:00 UTC] PHP Fatal error:  Cannot redeclare bloginfo() (previously declared in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\general-template.php:742) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[06-Jan-2023 13:09:01 UTC] PHP Fatal error:  Cannot redeclare bloginfo() (previously declared in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\general-template.php:742) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[06-Jan-2023 13:09:06 UTC] PHP Fatal error:  Cannot redeclare bloginfo() (previously declared in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\general-template.php:742) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[06-Jan-2023 13:39:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "i" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:34
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 34
+[06-Jan-2023 13:40:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "i" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:34
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 34
+[06-Jan-2023 13:40:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "i" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:34
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 34
+[06-Jan-2023 13:40:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "i" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:34
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 34
+[06-Jan-2023 13:42:04 UTC] PHP Warning:  Undefined array key 3 in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 34
+[06-Jan-2023 13:42:17 UTC] PHP Warning:  Undefined array key 3 in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 34
+[06-Jan-2023 13:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function i() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:34
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 34
+[06-Jan-2023 13:42:57 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:34
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 34
+[06-Jan-2023 13:42:59 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:34
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 34
+[06-Jan-2023 15:00:27 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[14-Jan-2023 08:52:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "have_post" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 08:52:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "have_post" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 08:52:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "have_post" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 08:52:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "have_post" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 08:52:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "have_post" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 08:52:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "have_post" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 08:52:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "have_post" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 08:52:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "have_post" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 09:56:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 10:01:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 10:01:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:2
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[14-Jan-2023 11:45:19 UTC] PHP Parse error:  Unclosed '{' on line 2 in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 5
+[14-Jan-2023 13:01:41 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[14-Jan-2023 13:01:42 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[14-Jan-2023 13:21:54 UTC] PHP Fatal error:  Maximum execution time of 1200 seconds exceeded in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-dependencies.php on line 289
+[14-Jan-2023 13:23:42 UTC] PHP Fatal error:  Maximum execution time of 1200 seconds exceeded in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-dependencies.php on line 293
+[14-Jan-2023 13:50:33 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "></div>" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 8
+[14-Jan-2023 14:00:10 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13
+[14-Jan-2023 14:00:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 372
+[14-Jan-2023 14:00:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 373
+[14-Jan-2023 14:44:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_parent_post_id() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 24
+[14-Jan-2023 14:45:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_parent_id() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 24
+[14-Jan-2023 14:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_parent_id() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 24
+[14-Jan-2023 14:58:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_parent_id() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 24
+[14-Jan-2023 14:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_parent_id() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 24
+[14-Jan-2023 15:08:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_page_list() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php:37
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 37
+[14-Jan-2023 15:09:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_page_lists() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php:37
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 37
+[14-Jan-2023 15:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gat_pages() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php:35
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 35
+[14-Jan-2023 15:42:47 UTC] PHP Warning:  Array to string conversion in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 36
+[14-Jan-2023 15:43:53 UTC] PHP Warning:  Array to string conversion in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 39
+[15-Jan-2023 14:17:58 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\page.php on line 59
+[22-Jan-2023 08:27:19 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 15
+[22-Jan-2023 08:27:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 372
+[22-Jan-2023 08:27:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 373
+[22-Jan-2023 08:27:25 UTC] PHP Parse error:  syntax error, unexpected identifier "add_theme_support" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 15
+[22-Jan-2023 08:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_nav_manue() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php:14
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-hook.php(308): university_features('')
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-settings.php(595): do_action('after_setup_the...')
+#4 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-config.php(93): require_once('C:\\Users\\user\\L...')
+#5 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-load.php(50): require_once('C:\\Users\\user\\L...')
+#6 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\user\\L...')
+#7 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-admin\index.php(10): require_once('C:\\Users\\user\\L...')
+#8 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 14
+[22-Jan-2023 08:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_nav_manu() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php:14
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-hook.php(308): university_features('')
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-settings.php(595): do_action('after_setup_the...')
+#4 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-config.php(93): require_once('C:\\Users\\user\\L...')
+#5 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-load.php(50): require_once('C:\\Users\\user\\L...')
+#6 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\user\\L...')
+#7 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-admin\index.php(10): require_once('C:\\Users\\user\\L...')
+#8 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 14
+[22-Jan-2023 08:34:29 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\header.php on line 20
+[22-Jan-2023 09:32:44 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-admin\includes\translation-install.php on line 68
+[22-Jan-2023 09:33:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-admin\includes\translation-install.php on line 68
+[22-Jan-2023 09:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_author_permalink() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 24
+[22-Jan-2023 09:37:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "n" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 24
+[22-Jan-2023 09:37:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "n" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 24
+[22-Jan-2023 09:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_category_link() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 24
+[22-Jan-2023 09:39:57 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 24
+[22-Jan-2023 11:06:14 UTC] PHP Warning:  Undefined variable $theparent in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\single.php on line 18
+[22-Jan-2023 11:06:14 UTC] PHP Warning:  Undefined variable $theparent in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\single.php on line 18
+[22-Jan-2023 11:06:27 UTC] PHP Warning:  Undefined variable $theparent in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\single.php on line 18
+[22-Jan-2023 11:13:41 UTC] Cron unschedule event error for hook: do_pings, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[22-Jan-2023 11:32:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_archive() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\archive.php:7
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\archive.php on line 7
+[22-Jan-2023 11:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_archive_desc() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\archive.php:9
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\archive.php on line 9
+[22-Jan-2023 11:56:04 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 63
+[22-Jan-2023 12:15:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_postdate() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php:64
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 64
+[22-Jan-2023 12:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_uri() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php:66
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 66
+[22-Jan-2023 12:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_uri() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php:66
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 66
+[22-Jan-2023 12:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_uri() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php:66
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 66
+[22-Jan-2023 12:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_uri() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php:66
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 66
+[22-Jan-2023 12:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_uri() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php:66
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 66
+[22-Jan-2023 12:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_category_li() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 24
+[22-Jan-2023 12:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_category_link() in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php:24
+Stack trace:
+#0 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\user\\L...')
+#2 C:\Users\user\Local Sites\fictionaluniversty\app\public\index.php(17): require('C:\\Users\\user\\L...')
+#3 {main}
+  thrown in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\index.php on line 24
+[22-Jan-2023 13:21:46 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 23
+[22-Jan-2023 13:21:47 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 23
+[22-Jan-2023 13:21:47 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 23
+[22-Jan-2023 13:22:19 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 31
+[22-Jan-2023 13:22:26 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 31
+[22-Jan-2023 13:22:47 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 31
+[22-Jan-2023 13:22:49 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 31
+[22-Jan-2023 13:22:49 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 31
+[22-Jan-2023 13:22:50 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 31
+[22-Jan-2023 13:22:50 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\user\Local Sites\fictionaluniversty\app\public\wp-content\themes\fictional-university-theme\functions.php on line 31
